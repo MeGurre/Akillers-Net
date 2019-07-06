@@ -1,0 +1,26 @@
+{
+  "name": "discord-hackweek-bot",
+  "version": "1.0.0",
+  "description": "A Memebot For Discord Hackweek",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamingMineblox/Discord-HackWeek-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "hackweek"
+  ],
+  "author": "GamingMineblox, MeGurre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamingMineblox/Discord-HackWeek-Bot/issues"
+  },
+  "homepage": "https://github.com/GamingMineblox/Discord-HackWeek-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
